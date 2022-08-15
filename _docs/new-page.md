@@ -1,5 +1,5 @@
 ---
-title: 'new page'
+title: edit
 ---
 
 test
