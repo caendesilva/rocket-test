@@ -13,11 +13,6 @@ spernit cerata, in. Lorem ipsum dolor amet.
 3. Iove quod
 
 
-Deformes ratione reparat ardescunt prisci ait calamis licet Baucida bracchia,
-conscia. Vix dentibus intonsum crevit cura lucus petit: lateri aras exclusura
-dum regione rapta partibus, quaeris; hoc. Et numen, et **naris fallax homines**,
-oves, mutata deos deorum.
-
 ![Image](foo/bar.png)
 
 
