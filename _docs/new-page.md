@@ -2,8 +2,7 @@
 title: edit
 ---
 
-            <pre class="overflow-auto"><code style="font-family: monospace;">{{ $remote }}</code></pre>
-
+testtd
 
 foo
 
