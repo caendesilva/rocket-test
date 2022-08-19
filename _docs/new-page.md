@@ -2,10 +2,4 @@
 title: edit
 ---
 
-testtd
-
-foo
-
-bar
-
-baz
+test
