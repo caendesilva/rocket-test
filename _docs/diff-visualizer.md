@@ -1,6 +1,5 @@
 ---
 title: 'Diff visualizer'
-date: '2022-08-19'
 ---
 
 ## Ponit senis humus inmitibus suas
