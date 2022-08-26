@@ -1,2 +1,6 @@
+---
+title: Test
+---
+
 foo
 bar
